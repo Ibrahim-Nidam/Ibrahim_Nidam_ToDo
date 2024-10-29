@@ -2,33 +2,31 @@
 
 **Système de Gestion des Tâches — To Do List**
 
-**Author du Brief:** Iliass RAIHANI. 
+**Author du Brief:** Iliass RAIHANI.
 
-**Coder:** Ibrahim Nidam. 
+**Coder:** Ibrahim Nidam.
 
 ## Links
 
-- **Presentation Canva:**[View Presentation]()
-- **Github Backlog:**[View Backlog]()
+- **Presentation Canva:**[View Presentation](https://www.canva.com/design/DAGU5w4aH58/cyM9JlFrBUv5uoaPf97xLA/view?utm_content=DAGU5w4aH58&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- **Github Backlog:**[View Backlog](https://github.com/users/Ibrahim-Nidam/projects/2/views/1)
 - **Figma Brief:** [View on Figma](https://www.figma.com/design/xI4d5SGFc3jm6Pm9XfaepO/TaskFlow---Kanban?node-id=0-1&t=BLGX0W6wYI047Tjh-1)
-- **GitHub Repository:** [View on GitHub]()
-- **Hosted Page:** [View Live]()
+- **GitHub Repository:** [View on GitHub](https://github.com/Ibrahim-Nidam/Ibrahim_Nidam_ToDo.git)
+- **Hosted Page:** [View Live](https://ibrahim-nidam.github.io/Ibrahim_Nidam_ToDo/)
 - **Color Palette:** [View Color Palette](https://coolors.co/ffffff-274c77-6096ba-000000)
 
 ### **Level :** Niveau 1
 
 ### Créé : 27/10/24
 
-Développer une application de gestion de tâches permettant d’ajouter, de rechercher, de filtrer et de prioriser les tâches en utilisant Html, CSS et Javascript. 
+Développer une application de gestion de tâches permettant d’ajouter, de rechercher, de filtrer et de prioriser les tâches en utilisant Html, CSS et Javascript.
 L’application devra être responsive et proposer une interface fluide et attractive.
 
 ## **Contexte du projet:**
 
 La start-up TaskFlow, veut rendre son équipe de développement plus efficace en installant un système simple pour gérer les tâches. L'application aidera les utilisateurs à créer, suivre et organiser leurs tâches, tout en simplifiant la planification des projets.
 
-
-
-USER STORIES
+### USER STORIES
 
 ​
 
@@ -75,7 +73,7 @@ En tant que membre de l'équipe, je vais déployer le projet en ligne via GitHub
 ​
 ​
 
-BONUS
+### BONUS
 
 ​
 
@@ -95,7 +93,6 @@ En tant qu'utilisateur, je peux rechercher une tâche spécifique en utilisant u
 
 En tant que développeur Front-End, je vais inclure un algorithme pour trier automatiquement les tâches par date d'échéance ou priorité pour faciliter leur gestion chronologique.
 
-
 ## **Modalités pédagogiques**
 
 Vous disposez de 6 jours en autonomie pour réaliser le brief en utilisant les technologies appropriées.
@@ -104,20 +101,20 @@ Date limite de soumission : 02/11/2024 à 23h59
 
 ## **Modalités d'évaluation**
 
-Présentation de 20 minutes :
-5 minutes : Démonstration de livrable.
-10 minutes : Explication partie code.
-5 minutes : évaluation des savoirs(Q/A)
+#### Présentation de 20 minutes :
+
+- 5 minutes : Démonstration de livrable.
+- 10 minutes : Explication partie code.
+- 5 minutes : évaluation des savoirs(Q/A)
 
 ## **Livrables**
 
 Livrable : 5ème jour
-   - **Un lien vers le site web hébergé sur GitHub Pages**
-  - **Lien vers le repository GitHub contenant :**
-    - **Le code source du site web en HTML/CSS/JavaScript avec tous les fichiers nécessaires**
-    - **README**
 
-
+- **Un lien vers le site web hébergé sur GitHub Pages**
+- **Lien vers le repository GitHub contenant :**
+  - **Le code source du site web en HTML/CSS/JavaScript avec tous les fichiers nécessaires**
+  - **README**
 
 Un rapport englobant l'ensemble des tâches et des points abordés, sera partagé par e-mail vers la fin du projet.
 
@@ -130,8 +127,40 @@ Un rapport englobant l'ensemble des tâches et des points abordés, sera partag�
 - Conformité aux Bonnes Pratiques (Documentation de code/ Balises Sémantiques/ SEO/ etc.…).
 - Utilisation de systèmes de contrôle de version Git
 - Le site doit être correctement déployé sur un service d'hébergement gratuit.
-- Le site doit s'adapter parfaitement a tout type d'écrans :
-__Grand Écran d'Ordinateur : À partir de 1280px de large.
-__Petit Écran d'Ordinateur : De 1024px à 1279px de large.
-__Tablette : De 768px à 1023px de large.
-__Mobile : Jusqu'à 767px de large.
+
+### Le site doit s'adapter parfaitement a tout type d'écrans :
+
+- **Grand Écran d'Ordinateur** : À partir de 1280px de large.
+- **Petit Écran d'Ordinateur** : De 1024px à 1279px de large.
+- **Tablette** : De 768px à 1023px de large.
+- **Mobile** : Jusqu'à 767px de large.
+
+## **Colors Used**
+
+#### Black
+
+<span style="color: #000000; background-color: #FFF; padding: 2px 8px; border-radius: 3px;">HEX: #000000</span> - RGB: rgb(0, 0, 0)
+
+#### White
+
+<span style="color: #FFFFFF; background-color: #000; padding: 2px 8px; border-radius: 3px;">HEX: #FFFFFF</span> - RGB: rgb(255, 255, 255)
+
+#### YinMn Blue
+
+<span style="color: #000; background-color: #274C77; padding: 2px 8px; border-radius: 3px;">HEX: #274C77</span> - RGB: rgb(39, 76, 119)
+
+#### Air Superiority Blue
+
+<span style="color: #000; background-color: #6096BA; padding: 2px 8px; border-radius: 3px;">HEX: #6096BA</span> - RGB: rgb(96, 150, 186)
+
+## **Media Query Sizes Used**
+
+| Device Type       | Size in `px`      | Width in `em` |
+| ----------------- | ----------------- | ------------- |
+| **Mobile**        | Max Width: 767px  | 47.94em       |
+| **Small Tablet**  | Min Width: 768px  | 48em          |
+|                   | Max Width: 1023px | 63.94em       |
+| **Tablet**        | Min Width: 1024px | 64em          |
+|                   | Max Width: 1279px | 79.94em       |
+| **Small Desktop** | Min Width: 1280px | 80em          |
+| **Large Desktop** | Min Width: 1600px | 100em         |
